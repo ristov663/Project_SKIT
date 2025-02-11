@@ -1,0 +1,9 @@
+config:
+  target: "http://localhost:8000/api/events"
+  phases:
+    - duration: 1800  # Тестирање 30 минути (1800 секунди)
+      arrivalRate: 10  # Константно 10 корисници во секунда
+scenarios:
+  - flow:
+      - get:
+          url: "/api/posts"

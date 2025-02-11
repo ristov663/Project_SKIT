@@ -1,0 +1,13 @@
+config:
+  target: "http://localhost:8000/api/events"
+  phases:
+    - duration: 10
+      arrivalRate: 5   # Нормално 5 корисници во секунда
+    - duration: 10
+      arrivalRate: 100 # Нагло зголемување на 100 корисници во секунда!
+    - duration: 20
+      arrivalRate: 5   # Враќање на 5 корисници/секунда
+scenarios:
+  - flow:
+      - get:
+          url: "/api/posts"

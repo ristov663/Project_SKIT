@@ -1,0 +1,15 @@
+{
+	"id": "cc933215-f080-4671-a9a7-d28787d08ea2",
+	"name": "LaravelEnviroment",
+	"values": [
+		{
+			"key": "BASE_URL",
+			"value": "http://127.0.0.1:8000",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-02-10T15:14:24.131Z",
+	"_postman_exported_using": "Postman/10.24.15"
+}
