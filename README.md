@@ -1,3 +1,11 @@
+![image](https://github.com/user-attachments/assets/354bc31f-1352-47e6-8901-f11573d615d6)
+
+<h1>Софтверски квалитет и тестариње (Software quality and testing)<h1/>
+<h2>Проект на тема ТЕСТИРАЊЕ НА LARAVEL API АПЛИКАЦИЈА<h2/>
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
